@@ -7,3 +7,6 @@
 7. RuPay is a domestic card payment network launched by NPCI, providing an alternative to international card schemes
 8. NEFT (National Electronic Funds Transfer): NEFT allows you to transfer any amount as long as it is within your bank's specified limits
 9. RTGS (Real-Time Gross Settlement): Minimum Amount: Generally, Rs. 2 lakhs. No Maximum Limit: RTGS allows for high-value transactions, and there is no upper limit.
+
+NEFT is suitable for non-urgent fund transfers with no minimum or maximum limit, while RTGS is ideal for high-value transactions that require immediate settlement and involve larger amounts of money. 
+The choice between NEFT and RTGS depends on the urgency, transaction amount, and specific requirements of the sender.
