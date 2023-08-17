@@ -1,0 +1,7 @@
+1. UPI (Unified Payments Interface): Multiple accounts are linked to a single device. (virtual payment addresses (VPAs)).
+2. IMPS (Immediate Payment Service): IMPS allows customers to instantly transfer funds between bank accounts.
+3. AePS (Aadhaar-enabled Payment System): AePS enables banking transactions using Aadhaar authentication. (Aadhaar number and biometric data)
+4. BBPS (Bharat Bill Payment System): BBPS is an integrated bill payment system that offers interoperable and accessible bill payment services to consumers through a network of agents and online channels
+5. FASTag: FASTag is an electronic toll collection system that allows vehicles to pass through toll plazas without stopping for cash transactions ( RFID technology)
+6. NACH (National Automated Clearing House): NACH is a bulk payment system that facilitates high-volume and repetitive transactions such as salary disbursements, dividend payments, and bill collections.
+7. RuPay is a domestic card payment network launched by NPCI, providing an alternative to international card schemes
