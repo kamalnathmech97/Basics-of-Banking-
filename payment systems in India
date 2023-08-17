@@ -1,7 +1,9 @@
-1. UPI (Unified Payments Interface): Multiple accounts are linked to a single device. (virtual payment addresses (VPAs)).
-2. IMPS (Immediate Payment Service): IMPS allows customers to instantly transfer funds between bank accounts.
-3. AePS (Aadhaar-enabled Payment System): AePS enables banking transactions using Aadhaar authentication. (Aadhaar number and biometric data)
+1. UPI (Unified Payments Interface): Multiple accounts are linked to a single device. (virtual payment addresses (VPAs)). (1 to 2 L)
+2. IMPS (Immediate Payment Service): IMPS allows customers to instantly transfer funds between bank accounts. (1 to 10 L)
+3. AePS (Aadhaar-enabled Payment System): AePS enables banking transactions using Aadhaar authentication. (Aadhaar number and biometric data) (10000)
 4. BBPS (Bharat Bill Payment System): BBPS is an integrated bill payment system that offers interoperable and accessible bill payment services to consumers through a network of agents and online channels
 5. FASTag: FASTag is an electronic toll collection system that allows vehicles to pass through toll plazas without stopping for cash transactions ( RFID technology)
 6. NACH (National Automated Clearing House): NACH is a bulk payment system that facilitates high-volume and repetitive transactions such as salary disbursements, dividend payments, and bill collections.
 7. RuPay is a domestic card payment network launched by NPCI, providing an alternative to international card schemes
+8. NEFT (National Electronic Funds Transfer): NEFT allows you to transfer any amount as long as it is within your bank's specified limits
+9. RTGS (Real-Time Gross Settlement): Minimum Amount: Generally, Rs. 2 lakhs. No Maximum Limit: RTGS allows for high-value transactions, and there is no upper limit.
